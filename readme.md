@@ -1,7 +1,7 @@
 Markerclusterer-icons: Better icons for Google Maps MarkerClusterer.
 
 
-![54px](54.png)
+![53px](53.png)
 
 ![56px](56.png)
 
