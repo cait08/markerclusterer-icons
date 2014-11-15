@@ -2,6 +2,7 @@ Markerclusterer-icons: Better icons for Google Maps MarkerClusterer.
 
 Example usage in MarkerClusterer options:
 
+```
 var clusterOptions = { //or whatever your MarkerClusterer options array is
 			zoomOnClick: true,
 			averageCenter: true,
@@ -36,3 +37,5 @@ var clusterOptions = { //or whatever your MarkerClusterer options array is
 				width: 90
 				}]
 		};
+		
+		```
